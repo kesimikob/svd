@@ -1,0 +1,1 @@
+{ "app": [ { "pacpagename": "com.xstore.cameratranslator.image.translate", "image": "https://lh3.googleusercontent.com/JxMf64dtOx4hRJEmXa3iG1Y-FAnty736a2R21gvXXzabm7BKNkWFJmfM-mJbC2ro4Vg=w2880-h1434-rw", "update": "no", "direct": "no", "ads":"yes", "unityads":"no", "world": "yes" } ] }
